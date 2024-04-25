@@ -1,0 +1,46 @@
+.delapan{
+    background-color: aqua;
+    color: red;
+    font-size: 20px;
+    border: 10px solid black;
+    font-family: Cambria;
+    font-weight: bold;
+    padding: 30px;
+    margin: 10px;
+   
+}
+.sembilan{
+    background-color: red;
+    color: aqua;
+    font-size: 30px;
+    border: 5px solid gray;
+    font-family: 'Segoe UI';
+    font-weight: bold;
+    padding: 25px;
+    margin: 15px;
+}
+.pagi{
+    width: 400px;
+    height: 300px;
+}
+.sore{
+    width: 400px;
+    height: 300px;
+}
+.semja{
+    width: 400px;
+    height: 300px;
+}
+.senja{
+    width: 400px;
+    height: 300px;
+}
+.sempol{
+    width: 400px;
+    height: 300px;
+}
+.anjam{
+    width: 400px;
+    height: 300px;
+
+}
